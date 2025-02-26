@@ -13,3 +13,7 @@ texas %>%
   geom_line(color = "blue") +
   labs(title = "COVID-19 Case Trends in Texas", x = "Date", y = "Total Cases")
 
+##TEST TEST
+#!!!!!!
+x-<c(2,3,4)
+
